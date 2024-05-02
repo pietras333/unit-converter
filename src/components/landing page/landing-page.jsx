@@ -1,15 +1,10 @@
-import { Comfortaa } from "next/font/google";
 import Image from "next/image";
-const comfortaa = Comfortaa({ subsets: ["latin"] });
-
 import coding from "../../../public/assets/landing/coding.svg";
 import Navbar from "./navbar";
 
 const LandingPage = () => {
   return (
-    <section
-      className={`max-w-full h-screen max-lg:h-[80vh] ${comfortaa.className} bg-landing bg-center max-2xl:bg-cover bg-full bg-no-repeat`}
-    >
+    <section className="max-w-full h-screen max-lg:h-[80vh] bg-landing bg-center max-2xl:bg-cover bg-full bg-no-repeat">
       <section className="w-full h-full flex flex-col max-lg:relative">
         <Navbar />
         <section className="w-full h-full flex max-lg:flex-col max-lg:items-center">

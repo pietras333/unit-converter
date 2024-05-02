@@ -1,11 +1,8 @@
-import { Comfortaa } from "next/font/google";
-const comfortaa = Comfortaa({ subsets: ["latin"] });
-
 const Contact = () => {
   return (
     <section
       id="contact"
-      className={`max-w-full h-screen max-lg:h-[120vh] ${comfortaa.className} bg-landing-contact bg-center bg-full max-2xl:bg-cover bg-no-repeat`}
+      className="max-w-full h-screen max-lg:h-[120vh] bg-landing-contact bg-center bg-full max-2xl:bg-cover bg-no-repeat"
     >
       <section className="w-full h-full flex max-lg:flex-col max-lg:items-center max-lg:justify-center">
         <section className="w-1/2 max-lg:w-[90%] h-full max-md:h-1/2">

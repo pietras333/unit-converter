@@ -1,7 +1,4 @@
-import { Comfortaa } from "next/font/google";
 import Image from "next/image";
-const comfortaa = Comfortaa({ subsets: ["latin"] });
-
 import coding2 from "../../../public/assets/landing/coding2.svg";
 import science from "../../../public/assets/landing/science.svg";
 import startUp from "../../../public/assets/landing/start-up.svg";
@@ -9,7 +6,7 @@ import startUp from "../../../public/assets/landing/start-up.svg";
 const Facts = () => {
   return (
     <section
-      className={`max-w-full h-screen max-lg:h-[150vh] ${comfortaa.className} bg-landing-facts bg-center bg-full max-2xl:bg-cover bg-no-repeat`}
+      className="max-w-full h-screen max-lg:h-[150vh] bg-landing-facts bg-center bg-full max-2xl:bg-cover bg-no-repeat"
       id="facts"
     >
       <section className="w-full h-full flex flex-col">

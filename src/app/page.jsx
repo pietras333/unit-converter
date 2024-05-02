@@ -4,10 +4,12 @@ import AboutUs from "@/components/landing page/about-us";
 import Facts from "@/components/landing page/facts";
 import Contact from "@/components/landing page/contact";
 import Footer from "@/components/landing page/footer";
+import { Comfortaa } from "next/font/google";
+const comfortaa = Comfortaa({ subsets: ["latin"] });
 
 const Home = () => {
   return (
-    <main className="max-w-full h-full flex flex-col">
+    <main className={`max-w-full h-full flex flex-col ${comfortaa.className}`}>
       <LandingPage />
       <AboutUs />
       <Facts />
