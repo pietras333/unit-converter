@@ -1,9 +1,8 @@
 "use client";
 import global from "../../../styles/global.css";
-import Image from "next/image";
 import { Comfortaa } from "next/font/google";
 const comfortaa = Comfortaa({ subsets: ["latin"] });
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import UnitField from "@/components/converter/unitField";
 import engineeringUnits from "../assets/engineeringUnits.json";
 
@@ -55,7 +54,7 @@ const Converter = () => {
               <span className={showDropdown ? "rotate-90" : ""}>&gt;</span>
             </button>
             {showDropdown ? (
-              <section className="w-1/4 h-[300%] bg-green-500 absolute top-[75%] -left-[1%]">
+              <section className="w-1/2 h-[300%] bg-green-500 absolute top-[75%] -left-[1%]">
                 <ul className="w-full h-full flex flex-col justify-center items-center flex-wrap">
                   <li>
                     <h2 className="text-2xl">Engineering.</h2>
@@ -122,12 +121,152 @@ const Converter = () => {
                   </li>
                   <li>
                     <button
-                      id="dataStorage"
+                      id="data storage"
                       onClick={(e) => {
                         setCurrentUnitCategory(e.target.id);
                       }}
                     >
                       Units of Data Storage.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="acceleration"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Acceleration.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="density"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Density.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="moment of inertia"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of moment of inertia.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="torque"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Torque.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="pressure"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Pressure.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="power"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Power.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="time"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Time.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="angle"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Angle.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="numbers"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Numbers.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="volume dry"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Volume (dry).
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="angular velocity"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Angular Velocity.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="angular acceleration"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Angular Acceleration.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="specific volume"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Specific Volume.
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      id="moment of force"
+                      onClick={(e) => {
+                        setCurrentUnitCategory(e.target.id);
+                      }}
+                    >
+                      Units of Moment of Force.
                     </button>
                   </li>
                 </ul>
