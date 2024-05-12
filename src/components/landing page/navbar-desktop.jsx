@@ -19,7 +19,7 @@ const NavbarDesktop = () => {
           </li>
           <li>
             <a href="./converter">
-              <button className="bg-[#FFB400] p-4 text-xl rounded-xl max-2xl:p-2.5">
+              <button className="bg-[#FFB400] hover:translate-x-2 p-4 text-xl rounded-xl max-2xl:p-2.5">
                 Let&apos;s Convert
               </button>
             </a>

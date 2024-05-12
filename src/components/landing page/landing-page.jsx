@@ -40,7 +40,7 @@ const LandingPage = () => {
             </p>
 
             <a href="./converter">
-              <button className="bg-[#00AEE0] w-1/4 max-2xl:w-1/3 max-xl:w-2/5 p-4 max-2xl:p-3.5 text-xl rounded-xl text-[#F0EFF4]">
+              <button className="bg-[#00AEE0] hover:pl-2 w-1/4 max-2xl:w-1/3 max-xl:w-2/5 p-4 max-2xl:p-3.5 text-xl rounded-xl text-[#F0EFF4]">
                 Let&apos;s Convert
               </button>
             </a>

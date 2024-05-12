@@ -28,7 +28,7 @@ const NavbarMobile = () => {
           </section>
           <section className="w-3/4 h-5/6 flex justify-center items-center z-50">
             <ul className="w-3/4 h-full flex flex-col items-center justify-start space-y-6 text-[#24285b]">
-              <li className="text-lg">
+              <li className="text-lg hover:pl-2">
                 <a
                   href="#about-us"
                   onClick={() => {
@@ -38,7 +38,7 @@ const NavbarMobile = () => {
                   About Us.
                 </a>
               </li>
-              <li className="text-lg">
+              <li className="text-lg hover:pl-2">
                 <a
                   href="#facts"
                   onClick={() => {
@@ -48,7 +48,7 @@ const NavbarMobile = () => {
                   Facts.
                 </a>
               </li>
-              <li className="text-lg">
+              <li className="text-lg hover:pl-2">
                 <a
                   href="#contact"
                   onClick={() => {
@@ -59,7 +59,7 @@ const NavbarMobile = () => {
                 </a>
               </li>
               <li>
-                <button className="bg-[#FFB400] p-4 text-xl rounded-xl max-2xl:p-2.5">
+                <button className="bg-[#FFB400] hover:pl-2 p-4 text-xl rounded-xl max-2xl:p-2.5">
                   Let&apos;s Convert
                 </button>
               </li>
