@@ -1,15 +1,10 @@
-import { Comfortaa } from "next/font/google";
 import Image from "next/image";
-const comfortaa = Comfortaa({ subsets: ["latin"] });
-
 import coding from "../../../public/assets/landing/coding.svg";
 import Navbar from "./navbar";
 
 const LandingPage = () => {
   return (
-    <section
-      className={`max-w-full h-screen max-lg:h-[80vh] ${comfortaa.className} bg-landing bg-center max-2xl:bg-cover bg-full bg-no-repeat`}
-    >
+    <section className="max-w-full h-screen max-lg:h-[80vh] bg-landing bg-center max-2xl:bg-cover bg-full bg-no-repeat">
       <section className="w-full h-full flex flex-col max-lg:relative">
         <Navbar />
         <section className="w-full h-full flex max-lg:flex-col max-lg:items-center">
@@ -43,9 +38,12 @@ const LandingPage = () => {
               together! Let's do some&nbsp;
               <span class="text-green-600">converting!</span>
             </p>
-            <button className="bg-[#00AEE0] w-1/4 max-2xl:w-1/3 max-xl:w-2/5 p-4 max-2xl:p-3.5 text-xl rounded-xl text-[#F0EFF4]">
-              Let&apos;s Convert
-            </button>
+
+            <a href="./converter">
+              <button className="bg-[#00AEE0] w-1/4 max-2xl:w-1/3 max-xl:w-2/5 p-4 max-2xl:p-3.5 text-xl rounded-xl text-[#F0EFF4]">
+                Let&apos;s Convert
+              </button>
+            </a>
           </section>
           <section className="w-1/2 h-full flex justify-center items-center max-lg:absolute left-[25%]">
             <Image

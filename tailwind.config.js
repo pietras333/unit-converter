@@ -1,3 +1,5 @@
+const { transform } = require("next/dist/build/swc");
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -17,6 +19,15 @@ module.exports = {
       },
       backgroundSize: {
         full: "100%",
+      },
+      keyframes: {
+        fadeIn: {
+          "0%": { transform: `-100%` },
+          "100%": { transform: `0` },
+        },
+      },
+      animation: {
+        "fade-in": "fadeIn 500ms ease-in",
       },
     },
   },

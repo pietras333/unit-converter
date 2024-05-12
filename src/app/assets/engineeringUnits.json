@@ -1,0 +1,2145 @@
+{
+  "volume": {
+    "cubicMeter": { "unitName": "Cubic Meter", "unitSymbol": "m^3" },
+    "cubicKilometer": { "unitName": "Cubic Kilometer", "unitSymbol": "km^3" },
+    "cubicCentimeter": {
+      "unitName": "Cubic Centimeter",
+      "unitSymbol": "cm^3"
+    },
+    "cubicMillimeter": {
+      "unitName": "Cubic Millimeter",
+      "unitSymbol": "mm^3"
+    },
+    "liter": { "unitName": "Liter", "unitSymbol": "L, l" },
+    "milliliter": { "unitName": "Milliliter", "unitSymbol": "mL" },
+    "gallonUS": { "unitName": "Gallon (US)", "unitSymbol": "gal (US)" },
+    "quartUS": { "unitName": "Quart (US)", "unitSymbol": "qt (US)" },
+    "pintUS": { "unitName": "Pint (US)", "unitSymbol": "pt (US)" },
+    "cupUS": { "unitName": "Cup (US)", "unitSymbol": "cup (US)" },
+    "tablespoonUS": {
+      "unitName": "Tablespoon (US)",
+      "unitSymbol": "tablespoon (US)"
+    },
+    "teaspoonUS": {
+      "unitName": "Teaspoon (US)",
+      "unitSymbol": "teaspoon (US)"
+    },
+    "cubicMile": { "unitName": "Cubic Mile", "unitSymbol": "mi^3" },
+    "cubicYard": { "unitName": "Cubic Yard", "unitSymbol": "yd^3" },
+    "cubicFoot": { "unitName": "Cubic Foot", "unitSymbol": "ft^3" },
+    "cubicInch": { "unitName": "Cubic Inch", "unitSymbol": "in^3" },
+    "cubicDecimeter": { "unitName": "Cubic Decimeter", "unitSymbol": "dm^3" },
+    "exaliter": { "unitName": "Exaliter", "unitSymbol": "EL" },
+    "petaliter": { "unitName": "Petaliter", "unitSymbol": "PL" },
+    "teraliter": { "unitName": "Teraliter", "unitSymbol": "TL" },
+    "gigaliter": { "unitName": "Gigaliter", "unitSymbol": "GL" },
+    "megaliter": { "unitName": "Megaliter", "unitSymbol": "ML" },
+    "kiloliter": { "unitName": "Kiloliter", "unitSymbol": "kL" },
+    "hectoliter": { "unitName": "Hectoliter", "unitSymbol": "hL" },
+    "dekaliter": { "unitName": "Dekaliter", "unitSymbol": "daL" },
+    "deciliter": { "unitName": "Deciliter", "unitSymbol": "dL" },
+    "centiliter": { "unitName": "Centiliter", "unitSymbol": "cL" },
+    "microliter": { "unitName": "Microliter", "unitSymbol": "µL" },
+    "nanoliter": { "unitName": "Nanoliter", "unitSymbol": "nL" },
+    "picoliter": { "unitName": "Picoliter", "unitSymbol": "pL" },
+    "femtoliter": { "unitName": "Femtoliter", "unitSymbol": "fL" },
+    "attoliter": { "unitName": "Attoliter", "unitSymbol": "aL" },
+    "cc": { "unitName": "Cubic Centimeter", "unitSymbol": "cc, cm^3" },
+    "drop": { "unitName": "Drop", "unitSymbol": "drop" },
+    "barrelOil": { "unitName": "Barrel (Oil)", "unitSymbol": "bbl (oil)" },
+    "barrelUS": { "unitName": "Barrel (US)", "unitSymbol": "bbl (US)" },
+    "barrelUK": { "unitName": "Barrel (UK)", "unitSymbol": "bbl (UK)" },
+    "gallonUK": { "unitName": "Gallon (UK)", "unitSymbol": "gal (UK)" },
+    "quartUK": { "unitName": "Quart (UK)", "unitSymbol": "qt (UK)" },
+    "pintUK": { "unitName": "Pint (UK)", "unitSymbol": "pt (UK)" },
+    "cupMetric": { "unitName": "Cup (Metric)", "unitSymbol": "cup (metric)" },
+    "cupUK": { "unitName": "Cup (UK)", "unitSymbol": "cup (UK)" },
+    "fluidOunceUS": {
+      "unitName": "Fluid Ounce (US)",
+      "unitSymbol": "fl oz (US)"
+    },
+    "fluidOunceUK": {
+      "unitName": "Fluid Ounce (UK)",
+      "unitSymbol": "fl oz (UK)"
+    },
+    "tablespoonMetric": {
+      "unitName": "Tablespoon (Metric)",
+      "unitSymbol": "tablespoon (metric)"
+    },
+    "tablespoonUK": {
+      "unitName": "Tablespoon (UK)",
+      "unitSymbol": "tablespoon (UK)"
+    },
+    "dessertspoonUS": {
+      "unitName": "Dessertspoon (US)",
+      "unitSymbol": "dessertspoon (US)"
+    },
+    "dessertspoonUK": {
+      "unitName": "Dessertspoon (UK)",
+      "unitSymbol": "dessertspoon (UK)"
+    },
+    "teaspoonMetric": {
+      "unitName": "Teaspoon (Metric)",
+      "unitSymbol": "teaspoon (metric)"
+    },
+    "teaspoonUK": {
+      "unitName": "Teaspoon (UK)",
+      "unitSymbol": "teaspoon (UK)"
+    },
+    "gillUS": { "unitName": "Gill (US)", "unitSymbol": "gi" },
+    "gillUK": { "unitName": "Gill (UK)", "unitSymbol": "gi (UK)" },
+    "minimUS": { "unitName": "Minim (US)", "unitSymbol": "minim (US)" },
+    "minimUK": { "unitName": "Minim (UK)", "unitSymbol": "minim (UK)" },
+    "tonRegister": { "unitName": "Ton Register", "unitSymbol": "ton reg" },
+    "ccf": { "unitName": "Hundred-Cubic Foot", "unitSymbol": "ccf" },
+    "acreFoot": { "unitName": "Acre-Foot", "unitSymbol": "ac*ft" },
+    "acreFootUSsurvey": {
+      "unitName": "Acre-Foot (US Survey)",
+      "unitSymbol": "ac*ft"
+    },
+    "acreInch": { "unitName": "Acre-Inch", "unitSymbol": "ac*in" },
+    "dekastereste": { "unitName": "Dekastereste", "unitSymbol": "st" },
+    "decistere": { "unitName": "Decistere", "unitSymbol": "cd" },
+    "tun": { "unitName": "Tun", "unitSymbol": "tun" },
+    "hogshead": { "unitName": "Hogshead", "unitSymbol": "hogshead" },
+    "boardFoot": { "unitName": "Board Foot", "unitSymbol": "board foot" },
+    "dram": { "unitName": "Dram", "unitSymbol": "dr" },
+    "corBiblical": { "unitName": "Cor (Biblical)", "unitSymbol": "cor" },
+    "homerBiblical": {
+      "unitName": "Homer (Biblical)",
+      "unitSymbol": "homer"
+    },
+    "bathBiblical": { "unitName": "Bath (Biblical)", "unitSymbol": "bath" },
+    "hinBiblical": { "unitName": "Hin (Biblical)", "unitSymbol": "hin" },
+    "cabBiblical": { "unitName": "Cab (Biblical)", "unitSymbol": "cab" },
+    "logBiblical": { "unitName": "Log (Biblical)", "unitSymbol": "log" },
+    "tazaSpanish": { "unitName": "Taza (Spanish)", "unitSymbol": "taza" }
+  },
+  "area": {
+    "squareMeter": { "unitName": "Square Meter", "unitSymbol": "m^2" },
+    "squareKilometer": { "unitName": "Square Kilometer", "unitSymbol": "km^2" },
+    "squareCentimeter": {
+      "unitName": "Square Centimeter",
+      "unitSymbol": "cm^2"
+    },
+    "squareMillimeter": {
+      "unitName": "Square Millimeter",
+      "unitSymbol": "mm^2"
+    },
+    "squareMicrometer": {
+      "unitName": "Square Micrometer",
+      "unitSymbol": "µm^2"
+    },
+    "hectare": { "unitName": "Hectare", "unitSymbol": "ha" },
+    "acre": { "unitName": "Acre", "unitSymbol": "ac" },
+    "squareMile": { "unitName": "Square Mile", "unitSymbol": "mi^2" },
+    "squareYard": { "unitName": "Square Yard", "unitSymbol": "yd^2" },
+    "squareFoot": { "unitName": "Square Foot", "unitSymbol": "ft^2" },
+    "squareInch": { "unitName": "Square Inch", "unitSymbol": "in^2" },
+    "squareHectometer": {
+      "unitName": "Square Hectometer",
+      "unitSymbol": "hm^2"
+    },
+    "squareDekameter": {
+      "unitName": "Square Dekameter",
+      "unitSymbol": "dam^2"
+    },
+    "squareDecimeter": { "unitName": "Square Decimeter", "unitSymbol": "dm^2" },
+    "squareNanometer": { "unitName": "Square Nanometer", "unitSymbol": "nm^2" },
+    "are": { "unitName": "Are", "unitSymbol": "a" },
+    "barn": { "unitName": "Barn", "unitSymbol": "b" },
+    "squareMileUSsurvey": {
+      "unitName": "Square Mile (US Survey)",
+      "unitSymbol": "mi^2"
+    },
+    "squareFootUSsurvey": {
+      "unitName": "Square Foot (US Survey)",
+      "unitSymbol": "ft^2"
+    },
+    "circularInch": {
+      "unitName": "Circular Inch",
+      "unitSymbol": "circular inch"
+    },
+    "township": { "unitName": "Township", "unitSymbol": "township" },
+    "section": { "unitName": "Section", "unitSymbol": "section" },
+    "squareChain": { "unitName": "Square Chain", "unitSymbol": "ch^2" },
+    "squareRod": { "unitName": "Square Rod", "unitSymbol": "square rod" },
+    "squareRodUSsurvey": {
+      "unitName": "Square Rod (US Survey)",
+      "unitSymbol": "square rod"
+    },
+    "squarePerch": { "unitName": "Square Perch", "unitSymbol": "square perch" },
+    "squarePole": { "unitName": "Square Pole", "unitSymbol": "square pole" },
+    "squareMil": { "unitName": "Square Mil", "unitSymbol": "mil^2" },
+    "circularMil": { "unitName": "Circular Mil", "unitSymbol": "circular mil" },
+    "homestead": { "unitName": "Homestead", "unitSymbol": "homestead" },
+    "sabin": { "unitName": "Sabin", "unitSymbol": "sabin" },
+    "arpent": { "unitName": "Arpent", "unitSymbol": "arpent" },
+    "cuerda": { "unitName": "Cuerda", "unitSymbol": "cuerda" },
+    "plaza": { "unitName": "Plaza", "unitSymbol": "plaza" },
+    "varasCastellanasCuad": {
+      "unitName": "Varas Castellanas Cuad",
+      "unitSymbol": "varas castellanas cuad"
+    },
+    "varasConuquerasCuad": {
+      "unitName": "Varas Conuqueras Cuad",
+      "unitSymbol": "varas conuqueras cuad"
+    },
+    "electronCrossSection": {
+      "unitName": "Electron Cross Section",
+      "unitSymbol": "unknown"
+    }
+  },
+  "length": {
+    "meter": { "unitName": "Meter", "unitSymbol": "m" },
+    "kilometer": { "unitName": "Kilometer", "unitSymbol": "km" },
+    "decimeter": { "unitName": "Decimeter", "unitSymbol": "dm" },
+    "centimeter": { "unitName": "Centimeter", "unitSymbol": "cm" },
+    "millimeter": { "unitName": "Millimeter", "unitSymbol": "mm" },
+    "micrometer": { "unitName": "Micrometer", "unitSymbol": "µm" },
+    "nanometer": { "unitName": "Nanometer", "unitSymbol": "nm" },
+    "mile": { "unitName": "Mile", "unitSymbol": "mi, mi(Int)" },
+    "yard": { "unitName": "Yard", "unitSymbol": "yd" },
+    "foot": { "unitName": "Foot", "unitSymbol": "ft" },
+    "inch": { "unitName": "Inch", "unitSymbol": "in" },
+    "lightYear": { "unitName": "Light Year", "unitSymbol": "ly" },
+    "exameter": { "unitName": "Exameter", "unitSymbol": "Em" },
+    "petameter": { "unitName": "Petameter", "unitSymbol": "Pm" },
+    "terameter": { "unitName": "Terameter", "unitSymbol": "Tm" },
+    "gigameter": { "unitName": "Gigameter", "unitSymbol": "Gm" },
+    "megameter": { "unitName": "Megameter", "unitSymbol": "Mm" },
+    "hectometer": { "unitName": "Hectometer", "unitSymbol": "hm" },
+    "dekameter": { "unitName": "Dekameter", "unitSymbol": "dam" },
+    "micron": { "unitName": "Micron", "unitSymbol": "µ" },
+    "picometer": { "unitName": "Picometer", "unitSymbol": "pm" },
+    "femtometer": { "unitName": "Femtometer", "unitSymbol": "fm" },
+    "attometer": { "unitName": "Attometer", "unitSymbol": "am" },
+    "megaparsec": { "unitName": "Megaparsec", "unitSymbol": "Mpc" },
+    "kiloparsec": { "unitName": "Kiloparsec", "unitSymbol": "kpc" },
+    "parsec": { "unitName": "Parsec", "unitSymbol": "pc" },
+    "astronomicalUnit": {
+      "unitName": "Astronomical Unit",
+      "unitSymbol": "AU, UA"
+    },
+    "league": { "unitName": "League", "unitSymbol": "lea" },
+    "nauticalLeagueUK": {
+      "unitName": "Nautical League (UK)",
+      "unitSymbol": "Nautical League (UK)"
+    },
+    "nauticalLeagueInt": {
+      "unitName": "Nautical League (Int.)",
+      "unitSymbol": "Nautical League (Int.)"
+    },
+    "statuteLeague": {
+      "unitName": "League (Statute)",
+      "unitSymbol": "st.league"
+    },
+    "nauticalMileUK": {
+      "unitName": "Nautical Mile (UK)",
+      "unitSymbol": "NM (UK)"
+    },
+    "nauticalMileInt": {
+      "unitName": "Nautical Mile (International)",
+      "unitSymbol": "Nautical Mile (International)"
+    },
+    "statuteMile": {
+      "unitName": "Mile (Statute)",
+      "unitSymbol": "mi, mi (US)"
+    },
+    "usSurveyMile": { "unitName": "Mile (US Survey)", "unitSymbol": "mi" },
+    "romanMile": { "unitName": "Mile (Roman)", "unitSymbol": "Mile (Roman)" },
+    "kiloyard": { "unitName": "Kiloyard", "unitSymbol": "kyd" },
+    "furlong": { "unitName": "Furlong", "unitSymbol": "fur" },
+    "usSurveyFurlong": {
+      "unitName": "Furlong (US Survey)",
+      "unitSymbol": "fur"
+    },
+    "chain": { "unitName": "Chain", "unitSymbol": "ch" },
+    "usSurveyChain": { "unitName": "Chain (US Survey)", "unitSymbol": "ch" },
+    "rope": { "unitName": "Rope", "unitSymbol": "rd" },
+    "usSurveyRope": { "unitName": "Rope (US Survey)", "unitSymbol": "rd" },
+    "perch": { "unitName": "Perch", "unitSymbol": "Perch" },
+    "pole": { "unitName": "Pole", "unitSymbol": "Pole" },
+    "fathom": { "unitName": "Fathom", "unitSymbol": "fath" },
+    "usSurveyFathom": {
+      "unitName": "Fathom (US Survey)",
+      "unitSymbol": "fath"
+    },
+    "ell": { "unitName": "Ell", "unitSymbol": "Ell" },
+    "footUSsurvey": { "unitName": "Foot (US Survey)", "unitSymbol": "ft" },
+    "link": { "unitName": "Link", "unitSymbol": "li" },
+    "usSurveyLink": { "unitName": "Link (US Survey)", "unitSymbol": "li" },
+    "cubitUK": { "unitName": "Cubit (UK)", "unitSymbol": "Cubit (UK)" },
+    "handspanCloth": {
+      "unitName": "Handspan (Cloth)",
+      "unitSymbol": "Handspan (Cloth)"
+    },
+    "fingerCloth": {
+      "unitName": "Finger (Cloth)",
+      "unitSymbol": "Finger (Cloth)"
+    },
+    "nailCloth": { "unitName": "Nail (Cloth)", "unitSymbol": "Nail (Cloth)" },
+    "inchUSsurvey": { "unitName": "Inch (US Survey)", "unitSymbol": "in" },
+    "barleycorn": { "unitName": "Barleycorn", "unitSymbol": "Barleycorn" },
+    "mil": { "unitName": "Mil", "unitSymbol": "mil, thou" },
+    "microinch": { "unitName": "Microinch", "unitSymbol": "Microinch" },
+    "angstrom": { "unitName": "Angstrom", "unitSymbol": "A" },
+    "auOfLength": { "unitName": "A.u. of Length", "unitSymbol": "a.u., b" },
+    "xUnit": { "unitName": "X-Unit", "unitSymbol": "X" },
+    "fermi": { "unitName": "Fermi", "unitSymbol": "F, f" },
+    "arpent": { "unitName": "Arpent", "unitSymbol": "Arpent" },
+    "picapoint": { "unitName": "Picapoint", "unitSymbol": "Picapoint" },
+    "twip": { "unitName": "Twip", "unitSymbol": "Twip" },
+    "aln": { "unitName": "Aln", "unitSymbol": "Aln" },
+    "famn": { "unitName": "Famn", "unitSymbol": "Famn" },
+    "caliber": { "unitName": "Caliber", "unitSymbol": "cl" },
+    "centiinch": { "unitName": "Centiinch", "unitSymbol": "cin" },
+    "ken": { "unitName": "Ken", "unitSymbol": "Ken" },
+    "russianArchi": {
+      "unitName": "Russian Archi",
+      "unitSymbol": "Russian Archi"
+    },
+    "romanActus": { "unitName": "Roman Actus", "unitSymbol": "Roman Actus" },
+    "varaDeTarea": {
+      "unitName": "Vara De Tarea",
+      "unitSymbol": "Vara De Tarea"
+    },
+    "varaConuquera": {
+      "unitName": "Vara Conuquera",
+      "unitSymbol": "Vara Conuquera"
+    },
+    "varaCastellana": {
+      "unitName": "Vara Castellana",
+      "unitSymbol": "Vara Castellana"
+    },
+    "cubitGreek": {
+      "unitName": "Cubit (Greek)",
+      "unitSymbol": "Cubit (Greek)"
+    },
+    "longReed": { "unitName": "Long Reed", "unitSymbol": "Long Reed" },
+    "reed": { "unitName": "Reed", "unitSymbol": "Reed" },
+    "longCubit": { "unitName": "Long Cubit", "unitSymbol": "Long Cubit" },
+    "handbreadth": { "unitName": "Handbreadth", "unitSymbol": "Handbreadth" },
+    "fingerbreadth": {
+      "unitName": "Fingerbreadth",
+      "unitSymbol": "Fingerbreadth"
+    },
+    "planckLength": {
+      "unitName": "Planck Length",
+      "unitSymbol": "Planck Length"
+    },
+    "electronRadiusClassical": {
+      "unitName": "Electron Radius (Classical)",
+      "unitSymbol": "Electron Radius (Classical)"
+    },
+    "bohrRadius": { "unitName": "Bohr Radius", "unitSymbol": "b, a.u." },
+    "earthsEquatorialRadius": {
+      "unitName": "Earth's Equatorial Radius",
+      "unitSymbol": "Earth's Equatorial Radius"
+    },
+    "earthsPolarRadius": {
+      "unitName": "Earth's Polar Radius",
+      "unitSymbol": "Earth's Polar Radius"
+    },
+    "earthsDistanceFromSun": {
+      "unitName": "Earth's Distance From Sun",
+      "unitSymbol": "Earth's Distance From Sun"
+    },
+    "sunsRadius": { "unitName": "Sun's Radius", "unitSymbol": "Sun's Radius" }
+  },
+  "energy": {
+    "joule": { "unitName": "Joule", "unitSymbol": "J" },
+    "kilojoule": { "unitName": "Kilojoule", "unitSymbol": "kJ" },
+    "kilowatt-hour": { "unitName": "Kilowatt-hour", "unitSymbol": "kW*h" },
+    "watt-hour": { "unitName": "Watt-hour", "unitSymbol": "W*h" },
+    "calorie (nutritional)": {
+      "unitName": "Calorie (nutritional)",
+      "unitSymbol": "Cal"
+    },
+    "horsepower (metric) hour": {
+      "unitName": "Horsepower (metric) hour",
+      "unitSymbol": "hp*h"
+    },
+    "Btu (IT)": { "unitName": "Btu (IT)", "unitSymbol": "Btu" },
+    "Btu (th)": { "unitName": "Btu (th)", "unitSymbol": "Btu" },
+    "gigajoule": { "unitName": "Gigajoule", "unitSymbol": "GJ" },
+    "megajoule": { "unitName": "Megajoule", "unitSymbol": "MJ" },
+    "millijoule": { "unitName": "Millijoule", "unitSymbol": "mJ" },
+    "microjoule": { "unitName": "Microjoule", "unitSymbol": "µJ" },
+    "nanojoule": { "unitName": "Nanojoule", "unitSymbol": "nJ" },
+    "attojoule": { "unitName": "Attojoule", "unitSymbol": "aJ" },
+    "megaelectron-volt": {
+      "unitName": "Megaelectron-volt",
+      "unitSymbol": "MeV"
+    },
+    "kiloelectron-volt": {
+      "unitName": "Kiloelectron-volt",
+      "unitSymbol": "keV"
+    },
+    "electron-volt": { "unitName": "Electron-volt", "unitSymbol": "eV" },
+    "erg": { "unitName": "Erg", "unitSymbol": "erg" },
+    "gigawatt-hour": { "unitName": "Gigawatt-hour", "unitSymbol": "GW*h" },
+    "megawatt-hour": { "unitName": "Megawatt-hour", "unitSymbol": "MW*h" },
+    "kilowatt-second": { "unitName": "Kilowatt-second", "unitSymbol": "kW*s" },
+    "watt-second": { "unitName": "Watt-second", "unitSymbol": "W*s" },
+    "newton meter": { "unitName": "Newton meter", "unitSymbol": "N*m" },
+    "horsepower hour": { "unitName": "Horsepower hour", "unitSymbol": "hp*h" },
+    "kilocalorie (IT)": {
+      "unitName": "Kilocalorie (IT)",
+      "unitSymbol": "kcal (IT)"
+    },
+    "kilocalorie (th)": {
+      "unitName": "Kilocalorie (th)",
+      "unitSymbol": "kcal (th)"
+    },
+    "calorie (IT)": { "unitName": "Calorie (IT)", "unitSymbol": "cal (IT)" },
+    "calorie (th)": { "unitName": "Calorie (th)", "unitSymbol": "cal (th)" },
+    "mega Btu (IT)": { "unitName": "Mega Btu (IT)", "unitSymbol": "MBtu (IT)" },
+    "ton-hour (refrigeration)": {
+      "unitName": "Ton-hour (refrigeration)",
+      "unitSymbol": "Ton-h"
+    },
+    "fuel oil equivalent @kiloliter": {
+      "unitName": "Fuel oil equivalent @kiloliter",
+      "unitSymbol": "Fuel oil equiv @kl"
+    },
+    "fuel oil equivalent @barrel (US)": {
+      "unitName": "Fuel oil equivalent @barrel (US)",
+      "unitSymbol": "Fuel oil equiv @bbl (US)"
+    },
+    "gigaton": { "unitName": "Gigaton", "unitSymbol": "Gton" },
+    "megaton": { "unitName": "Megaton", "unitSymbol": "Mton" },
+    "kiloton": { "unitName": "Kiloton", "unitSymbol": "kton" },
+    "ton (explosives)": { "unitName": "Ton (explosives)", "unitSymbol": "Ton" },
+    "dyne centimeter": {
+      "unitName": "Dyne centimeter",
+      "unitSymbol": "dyn*cm"
+    },
+    "gram-force meter": {
+      "unitName": "Gram-force meter",
+      "unitSymbol": "gf*m"
+    },
+    "gram-force centimeter": {
+      "unitName": "Gram-force centimeter",
+      "unitSymbol": "gf*cm"
+    },
+    "kilogram-force centimeter": {
+      "unitName": "Kilogram-force centimeter",
+      "unitSymbol": "kgf*cm"
+    },
+    "kilogram-force meter": {
+      "unitName": "Kilogram-force meter",
+      "unitSymbol": "kgf*m"
+    },
+    "kilopond meter": { "unitName": "Kilopond meter", "unitSymbol": "kp*m" },
+    "pound-force foot": {
+      "unitName": "Pound-force foot",
+      "unitSymbol": "lbf*ft"
+    },
+    "pound-force inch": {
+      "unitName": "Pound-force inch",
+      "unitSymbol": "lbf*in"
+    },
+    "ounce-force inch": {
+      "unitName": "Ounce-force inch",
+      "unitSymbol": "ozf*in"
+    },
+    "foot-pound": { "unitName": "Foot-pound", "unitSymbol": "ft*lbf" },
+    "inch-pound": { "unitName": "Inch-pound", "unitSymbol": "in*lbf" },
+    "inch-ounce": { "unitName": "Inch-ounce", "unitSymbol": "in*ozf" },
+    "poundal foot": { "unitName": "Poundal foot", "unitSymbol": "pdl*ft" },
+    "therm": { "unitName": "Therm", "unitSymbol": "therm" },
+    "therm (EC)": { "unitName": "Therm (EC)", "unitSymbol": "therm (EC)" },
+    "therm (US)": { "unitName": "Therm (US)", "unitSymbol": "therm (US)" },
+    "Hartree energy": { "unitName": "Hartree energy", "unitSymbol": "Hartree" },
+    "Rydberg constant": {
+      "unitName": "Rydberg constant",
+      "unitSymbol": "Rydberg"
+    }
+  },
+  "force": {
+    "newton": { "unitName": "Newton", "unitSymbol": "N" },
+    "kilonewton": { "unitName": "Kilonewton", "unitSymbol": "kN" },
+    "gram-force": { "unitName": "Gram-force", "unitSymbol": "gf" },
+    "kilogram-force": { "unitName": "Kilogram-force", "unitSymbol": "kgf" },
+    "ton-force (metric)": {
+      "unitName": "Ton-force (metric)",
+      "unitSymbol": "tf"
+    },
+    "exanewton": { "unitName": "Exanewton", "unitSymbol": "EN" },
+    "petanewton": { "unitName": "Petanewton", "unitSymbol": "PT" },
+    "teranewton": { "unitName": "Teranewton", "unitSymbol": "TN" },
+    "giganewton": { "unitName": "Giganewton", "unitSymbol": "GN" },
+    "meganewton": { "unitName": "Meganewton", "unitSymbol": "MN" },
+    "hectonewton": { "unitName": "Hectonewton", "unitSymbol": "hN" },
+    "dekanewton": { "unitName": "Dekanewton", "unitSymbol": "daN" },
+    "decinewton": { "unitName": "Decinewton", "unitSymbol": "dN" },
+    "centinewton": { "unitName": "Centinewton", "unitSymbol": "cN" },
+    "millinewton": { "unitName": "Millinewton", "unitSymbol": "mN" },
+    "micronewton": { "unitName": "Micronewton", "unitSymbol": "µN" },
+    "nanonewton": { "unitName": "Nanonewton", "unitSymbol": "nN" },
+    "piconewton": { "unitName": "Piconewton", "unitSymbol": "pN" },
+    "femtonewton": { "unitName": "Femtonewton", "unitSymbol": "fN" },
+    "attonewton": { "unitName": "Attonewton", "unitSymbol": "aN" },
+    "dyne": { "unitName": "Dyne", "unitSymbol": "dyn" },
+    "joule/meter": { "unitName": "Joule/meter", "unitSymbol": "J/m" },
+    "joule/centimeter": {
+      "unitName": "Joule/centimeter",
+      "unitSymbol": "J/cm"
+    },
+    "ton-force (short)": {
+      "unitName": "Ton-force (short)",
+      "unitSymbol": "tonf (short)"
+    },
+    "ton-force (long)": {
+      "unitName": "Ton-force (long)",
+      "unitSymbol": "tonf (long)"
+    },
+    "kip-force": { "unitName": "Kip-force", "unitSymbol": "kipf" },
+    "kilopound-force": { "unitName": "Kilopound-force", "unitSymbol": "kipf" },
+    "pound-force": { "unitName": "Pound-force", "unitSymbol": "lbf" },
+    "ounce-force": { "unitName": "Ounce-force", "unitSymbol": "ozf" },
+    "poundal": { "unitName": "Poundal", "unitSymbol": "pdl" },
+    "pound foot/square second": {
+      "unitName": "Pound foot/square second",
+      "unitSymbol": "pdl"
+    },
+    "pond": { "unitName": "Pond", "unitSymbol": "p" },
+    "kilopond": { "unitName": "Kilopond", "unitSymbol": "kp" }
+  },
+  "speed": {
+    "meter/second": { "unitName": "Meter/second", "unitSymbol": "m/s" },
+    "kilometer/hour": { "unitName": "Kilometer/hour", "unitSymbol": "km/h" },
+    "mile/hour": { "unitName": "Mile/hour", "unitSymbol": "mi/h" },
+    "meter/hour": { "unitName": "Meter/hour", "unitSymbol": "m/h" },
+    "meter/minute": { "unitName": "Meter/minute", "unitSymbol": "m/min" },
+    "kilometer/minute": {
+      "unitName": "Kilometer/minute",
+      "unitSymbol": "km/min"
+    },
+    "kilometer/second": {
+      "unitName": "Kilometer/second",
+      "unitSymbol": "km/s"
+    },
+    "centimeter/hour": { "unitName": "Centimeter/hour", "unitSymbol": "cm/h" },
+    "centimeter/minute": {
+      "unitName": "Centimeter/minute",
+      "unitSymbol": "cm/min"
+    },
+    "centimeter/second": {
+      "unitName": "Centimeter/second",
+      "unitSymbol": "cm/s"
+    },
+    "millimeter/hour": { "unitName": "Millimeter/hour", "unitSymbol": "mm/h" },
+    "millimeter/minute": {
+      "unitName": "Millimeter/minute",
+      "unitSymbol": "mm/min"
+    },
+    "millimeter/second": {
+      "unitName": "Millimeter/second",
+      "unitSymbol": "mm/s"
+    },
+    "foot/hour": { "unitName": "Foot/hour", "unitSymbol": "ft/h" },
+    "foot/minute": { "unitName": "Foot/minute", "unitSymbol": "ft/min" },
+    "foot/second": { "unitName": "Foot/second", "unitSymbol": "ft/s" },
+    "yard/hour": { "unitName": "Yard/hour", "unitSymbol": "yd/h" },
+    "yard/minute": { "unitName": "Yard/minute", "unitSymbol": "yd/min" },
+    "yard/second": { "unitName": "Yard/second", "unitSymbol": "yd/s" },
+    "mile/minute": { "unitName": "Mile/minute", "unitSymbol": "mi/min" },
+    "mile/second": { "unitName": "Mile/second", "unitSymbol": "mi/s" },
+    "knot": { "unitName": "Knot", "unitSymbol": "kt" },
+    "knot (UK)": { "unitName": "Knot (UK)", "unitSymbol": "kt (UK)" },
+    "Velocity of light in vacuum": {
+      "unitName": "Velocity of light in vacuum"
+    },
+    "Cosmic velocity - first": { "unitName": "Cosmic velocity - first" },
+    "Cosmic velocity - second": { "unitName": "Cosmic velocity - second" },
+    "Cosmic velocity - third": { "unitName": "Cosmic velocity - third" },
+    "Earth's velocity": { "unitName": "Earth's velocity" },
+    "Velocity of sound in pure water": {
+      "unitName": "Velocity of sound in pure water"
+    },
+    "Velocity of sound in sea water (20°C, 10 meter deep)": {
+      "unitName": "Velocity of sound in sea water (20°C, 10 meter deep)"
+    },
+    "Mach (20°C, 1 atm)": { "unitName": "Mach (20°C, 1 atm)" },
+    "Mach (SI standard)": { "unitName": "Mach (SI standard)" }
+  },
+  "data storage": {
+    "bit": { "unitName": "Bit", "unitSymbol": "b" },
+    "nibble": { "unitName": "Nibble", "unitSymbol": "nibble" },
+    "byte": { "unitName": "Byte", "unitSymbol": "B" },
+    "character": { "unitName": "Character", "unitSymbol": "character" },
+    "word": { "unitName": "Word", "unitSymbol": "word" },
+    "MAPM-word": { "unitName": "MAPM Word", "unitSymbol": "MAPM-word" },
+    "quadruple-word": {
+      "unitName": "Quadruple Word",
+      "unitSymbol": "quadruple-word"
+    },
+    "block": { "unitName": "Block", "unitSymbol": "block" },
+    "kilobit": { "unitName": "Kilobit", "unitSymbol": "kb" },
+    "kilobyte": { "unitName": "Kilobyte", "unitSymbol": "kB" },
+    "kilobyte (10^3 bytes)": {
+      "unitName": "Kilobyte (10^3 bytes)",
+      "unitSymbol": "kB"
+    },
+    "megabit": { "unitName": "Megabit", "unitSymbol": "Mb" },
+    "megabyte": { "unitName": "Megabyte", "unitSymbol": "MB" },
+    "megabyte (10^6 bytes)": {
+      "unitName": "Megabyte (10^6 bytes)",
+      "unitSymbol": "MB"
+    },
+    "gigabit": { "unitName": "Gigabit", "unitSymbol": "Gb" },
+    "gigabyte": { "unitName": "Gigabyte", "unitSymbol": "GB" },
+    "gigabyte (10^9 bytes)": {
+      "unitName": "Gigabyte (10^9 bytes)",
+      "unitSymbol": "GB"
+    },
+    "terabit": { "unitName": "Terabit", "unitSymbol": "Tb" },
+    "terabyte": { "unitName": "Terabyte", "unitSymbol": "TB" },
+    "terabyte (10^12 bytes)": {
+      "unitName": "Terabyte (10^12 bytes)",
+      "unitSymbol": "TB"
+    },
+    "petabit": { "unitName": "Petabit", "unitSymbol": "Pb" },
+    "petabyte": { "unitName": "Petabyte", "unitSymbol": "PB" },
+    "petabyte (10^15 bytes)": {
+      "unitName": "Petabyte (10^15 bytes)",
+      "unitSymbol": "PB"
+    },
+    "exabit": { "unitName": "Exabit", "unitSymbol": "Eb" },
+    "exabyte": { "unitName": "Exabyte", "unitSymbol": "EB" },
+    "exabyte (10^18 bytes)": {
+      "unitName": "Exabyte (10^18 bytes)",
+      "unitSymbol": "EB"
+    },
+    "floppy disk (3.5\", DD)": {
+      "unitName": "Floppy Disk (3.5\", DD)",
+      "unitSymbol": "floppy disk (3.5\", DD)"
+    },
+    "floppy disk (3.5\", HD)": {
+      "unitName": "Floppy Disk (3.5\", HD)",
+      "unitSymbol": "floppy disk (3.5\", HD)"
+    },
+    "floppy disk (3.5\", ED)": {
+      "unitName": "Floppy Disk (3.5\", ED)",
+      "unitSymbol": "floppy disk (3.5\", ED)"
+    },
+    "floppy disk (5.25\", DD)": {
+      "unitName": "Floppy Disk (5.25\", DD)",
+      "unitSymbol": "floppy disk (5.25\", DD)"
+    },
+    "floppy disk (5.25\", HD)": {
+      "unitName": "Floppy Disk (5.25\", HD)",
+      "unitSymbol": "floppy disk (5.25\", HD)"
+    },
+    "Zip 100": { "unitName": "Zip 100", "unitSymbol": "Zip 100" },
+    "Zip 250": { "unitName": "Zip 250", "unitSymbol": "Zip 250" },
+    "Jaz 1GB": { "unitName": "Jaz 1GB", "unitSymbol": "Jaz 1GB" },
+    "Jaz 2GB": { "unitName": "Jaz 2GB", "unitSymbol": "Jaz 2GB" },
+    "CD (74 minute)": {
+      "unitName": "CD (74 minute)",
+      "unitSymbol": "CD (74 minute)"
+    },
+    "CD (80 minute)": {
+      "unitName": "CD (80 minute)",
+      "unitSymbol": "CD (80 minute)"
+    },
+    "DVD (1 layer, 1 side)": {
+      "unitName": "DVD (1 layer, 1 side)",
+      "unitSymbol": "DVD (1 layer, 1 side)"
+    },
+    "DVD (2 layer, 1 side)": {
+      "unitName": "DVD (2 layer, 1 side)",
+      "unitSymbol": "DVD (2 layer, 1 side)"
+    },
+    "DVD (1 layer, 2 side)": {
+      "unitName": "DVD (1 layer, 2 side)",
+      "unitSymbol": "DVD (1 layer, 2 side)"
+    },
+    "DVD (2 layer, 2 side)": {
+      "unitName": "DVD (2 layer, 2 side)",
+      "unitSymbol": "DVD (2 layer, 2 side)"
+    }
+  },
+  "acceleration": {
+    "meter/square second": {
+      "unitName": "Meter/Square Second",
+      "unitSymbol": "m/s^2"
+    },
+    "decimeter/square second": {
+      "unitName": "Decimeter/Square Second",
+      "unitSymbol": "dm/s^2"
+    },
+    "kilometer/square second": {
+      "unitName": "Kilometer/Square Second",
+      "unitSymbol": "km/s^2"
+    },
+    "hectometer/square second": {
+      "unitName": "Hectometer/Square Second",
+      "unitSymbol": "hm/s^2"
+    },
+    "dekameter/square second": {
+      "unitName": "Dekameter/Square Second",
+      "unitSymbol": "dam/s^2"
+    },
+    "centimeter/square second": {
+      "unitName": "Centimeter/Square Second",
+      "unitSymbol": "cm/s^2"
+    },
+    "millimeter/square second": {
+      "unitName": "Millimeter/Square Second",
+      "unitSymbol": "mm/s^2"
+    },
+    "micrometer/square second": {
+      "unitName": "Micrometer/Square Second",
+      "unitSymbol": "µm/s^2"
+    },
+    "nanometer/square second": {
+      "unitName": "Nanometer/Square Second",
+      "unitSymbol": "nm/s^2"
+    },
+    "picometer/square second": {
+      "unitName": "Picometer/Square Second",
+      "unitSymbol": "pm/s^2"
+    },
+    "femtometer/square second": {
+      "unitName": "Femtometer/Square Second",
+      "unitSymbol": "fm/s^2"
+    },
+    "attometer/square second": {
+      "unitName": "Attometer/Square Second",
+      "unitSymbol": "am/s^2"
+    },
+    "gal": { "unitName": "Gal", "unitSymbol": "Gal" },
+    "galileo": { "unitName": "Galileo", "unitSymbol": "Gal" },
+    "mile/square second": {
+      "unitName": "Mile/Square Second",
+      "unitSymbol": "mi/s^2"
+    },
+    "yard/square second": {
+      "unitName": "Yard/Square Second",
+      "unitSymbol": "yd/s^2"
+    },
+    "foot/square second": {
+      "unitName": "Foot/Square Second",
+      "unitSymbol": "ft/s^2"
+    },
+    "inch/square second": {
+      "unitName": "Inch/Square Second",
+      "unitSymbol": "in/s^2"
+    },
+    "Acceleration of gravity": {
+      "unitName": "Acceleration of Gravity",
+      "unitSymbol": "g"
+    }
+  },
+  "density": {
+    "kilogram_per_cubic_meter": {
+      "unitName": "Kilogram/Cubic Meter",
+      "unitSymbol": "kg/m^3"
+    },
+    "gram_per_cubic_centimeter": {
+      "unitName": "Gram/Cubic Centimeter",
+      "unitSymbol": "g/cm^3"
+    },
+    "kilogram_per_cubic_centimeter": {
+      "unitName": "Kilogram/Cubic Centimeter",
+      "unitSymbol": "kg/cm^3"
+    },
+    "gram_per_cubic_meter": {
+      "unitName": "Gram/Cubic Meter",
+      "unitSymbol": "g/m^3"
+    },
+    "gram_per_cubic_millimeter": {
+      "unitName": "Gram/Cubic Millimeter",
+      "unitSymbol": "g/mm^3"
+    },
+    "milligram_per_cubic_meter": {
+      "unitName": "Milligram/Cubic Meter",
+      "unitSymbol": "mg/m^3"
+    },
+    "milligram_per_cubic_centimeter": {
+      "unitName": "Milligram/Cubic Centimeter",
+      "unitSymbol": "mg/cm^3"
+    },
+    "milligram_per_cubic_millimeter": {
+      "unitName": "Milligram/Cubic Millimeter",
+      "unitSymbol": "mg/mm^3"
+    },
+    "exagram_per_liter": {
+      "unitName": "Exagram/Liter",
+      "unitSymbol": "Eg/L"
+    },
+    "petagram_per_liter": {
+      "unitName": "Petagram/Liter",
+      "unitSymbol": "Pg/L"
+    },
+    "teragram_per_liter": {
+      "unitName": "Teragram/Liter",
+      "unitSymbol": "Tg/L"
+    },
+    "gigagram_per_liter": {
+      "unitName": "Gigagram/Liter",
+      "unitSymbol": "Gg/L"
+    },
+    "megagram_per_liter": {
+      "unitName": "Megagram/Liter",
+      "unitSymbol": "Mg/L"
+    },
+    "kilogram_per_liter": {
+      "unitName": "Kilogram/Liter",
+      "unitSymbol": "kg/L"
+    },
+    "hectogram_per_liter": {
+      "unitName": "Hectogram/Liter",
+      "unitSymbol": "hg/L"
+    },
+    "dekagram_per_liter": {
+      "unitName": "Dekagram/Liter",
+      "unitSymbol": "dag/L"
+    },
+    "gram_per_liter": {
+      "unitName": "Gram/Liter",
+      "unitSymbol": "g/L"
+    },
+    "decigram_per_liter": {
+      "unitName": "Decigram/Liter",
+      "unitSymbol": "dg/L"
+    },
+    "centigram_per_liter": {
+      "unitName": "Centigram/Liter",
+      "unitSymbol": "cg/L"
+    },
+    "milligram_per_liter": {
+      "unitName": "Milligram/Liter",
+      "unitSymbol": "mg/L"
+    },
+    "microgram_per_liter": {
+      "unitName": "Microgram/Liter",
+      "unitSymbol": "µg/L"
+    },
+    "nanogram_per_liter": {
+      "unitName": "Nanogram/Liter",
+      "unitSymbol": "ng/L"
+    },
+    "picogram_per_liter": {
+      "unitName": "Picogram/Liter",
+      "unitSymbol": "pg/L"
+    },
+    "femtogram_per_liter": {
+      "unitName": "Femtogram/Liter",
+      "unitSymbol": "fg/L"
+    },
+    "attogram_per_liter": {
+      "unitName": "Attogram/Liter",
+      "unitSymbol": "ag/L"
+    },
+    "pound_per_cubic_inch": {
+      "unitName": "Pound/Cubic Inch",
+      "unitSymbol": "lb/in^3"
+    },
+    "pound_per_cubic_foot": {
+      "unitName": "Pound/Cubic Foot",
+      "unitSymbol": "lb/ft^3"
+    },
+    "pound_per_cubic_yard": {
+      "unitName": "Pound/Cubic Yard",
+      "unitSymbol": "lb/yd^3"
+    },
+    "pound_per_gallon_us": {
+      "unitName": "Pound/Gallon (US)",
+      "unitSymbol": "lb/gal (US)"
+    },
+    "pound_per_gallon_uk": {
+      "unitName": "Pound/Gallon (UK)",
+      "unitSymbol": "lb/gal (UK)"
+    },
+    "ounce_per_cubic_inch": {
+      "unitName": "Ounce/Cubic Inch",
+      "unitSymbol": "oz/in^3"
+    },
+    "ounce_per_cubic_foot": {
+      "unitName": "Ounce/Cubic Foot",
+      "unitSymbol": "oz/ft^3"
+    },
+    "ounce_per_gallon_us": {
+      "unitName": "Ounce/Gallon (US)",
+      "unitSymbol": "oz/gal (US)"
+    },
+    "ounce_per_gallon_uk": {
+      "unitName": "Ounce/Gallon (UK)",
+      "unitSymbol": "oz/gal (UK)"
+    },
+    "grain_per_gallon_us": {
+      "unitName": "Grain/Gallon (US)",
+      "unitSymbol": "gr/gal (US)"
+    },
+    "grain_per_gallon_uk": {
+      "unitName": "Grain/Gallon (UK)",
+      "unitSymbol": "gr/gal (UK)"
+    },
+    "grain_per_cubic_foot": {
+      "unitName": "Grain/Cubic Foot",
+      "unitSymbol": "gr/ft^3"
+    },
+    "short_ton_per_cubic_yard": {
+      "unitName": "Short Ton/Cubic Yard",
+      "unitSymbol": "ton (short)/yd^3"
+    },
+    "long_ton_per_cubic_yard": {
+      "unitName": "Long Ton/Cubic Yard",
+      "unitSymbol": "ton (long)/yd^3"
+    },
+    "slug_per_cubic_foot": {
+      "unitName": "Slug/Cubic Foot",
+      "unitSymbol": "slug/ft^3"
+    },
+    "psi_per_1000_feet": {
+      "unitName": "PSI/1000 Feet",
+      "unitSymbol": "psi/1000 ft"
+    },
+    "earths_density_mean": {
+      "unitName": "Earth's Density (Mean)",
+      "unitSymbol": "Unknown"
+    }
+  },
+  "moment of inertia": {
+    "kilogram_square_meter": {
+      "unitName": "Kilogram Square Meter",
+      "unitSymbol": "kg*m^2"
+    },
+    "kilogram_square_centimeter": {
+      "unitName": "Kilogram Square Centimeter",
+      "unitSymbol": "kg*cm^2"
+    },
+    "kilogram_square_millimeter": {
+      "unitName": "Kilogram Square Millimeter",
+      "unitSymbol": "kg*mm^2"
+    },
+    "gram_square_centimeter": {
+      "unitName": "Gram Square Centimeter",
+      "unitSymbol": "g*cm^2"
+    },
+    "gram_square_millimeter": {
+      "unitName": "Gram Square Millimeter",
+      "unitSymbol": "g*mm^2"
+    },
+    "kilogram-force_meter_square_second": {
+      "unitName": "Kilogram-Force Meter Square Second",
+      "unitSymbol": "kgf*m^2/s^2"
+    },
+    "kilogram-force_centimeter_square_second": {
+      "unitName": "Kilogram-Force Centimeter Square Second",
+      "unitSymbol": "kgf*cm^2/s^2"
+    },
+    "ounce_square_inch": {
+      "unitName": "Ounce Square Inch",
+      "unitSymbol": "oz*in^2"
+    },
+    "ounce-force_inch_sq._second": {
+      "unitName": "Ounce-Force Inch Square Second",
+      "unitSymbol": "ozf*in^2/s^2"
+    },
+    "pound_square_foot": {
+      "unitName": "Pound Square Foot",
+      "unitSymbol": "lb*ft^2"
+    },
+    "pound-force_foot_sq._second": {
+      "unitName": "Pound-Force Foot Square Second",
+      "unitSymbol": "lbf*ft^2/s^2"
+    },
+    "pound_square_inch": {
+      "unitName": "Pound Square Inch",
+      "unitSymbol": "lb*in^2"
+    },
+    "pound-force_inch_sq._second": {
+      "unitName": "Pound-Force Inch Square Second",
+      "unitSymbol": "lbf*in^2/s^2"
+    },
+    "slug_square_foot": {
+      "unitName": "Slug Square Foot",
+      "unitSymbol": "slug*ft^2"
+    }
+  },
+  "torque": {
+    "newton_meter": {
+      "unitName": "Newton Meter",
+      "unitSymbol": "N*m"
+    },
+    "newton_centimeter": {
+      "unitName": "Newton Centimeter",
+      "unitSymbol": "N*cm"
+    },
+    "newton_millimeter": {
+      "unitName": "Newton Millimeter",
+      "unitSymbol": "N*mm"
+    },
+    "kilonewton_meter": {
+      "unitName": "Kilonewton Meter",
+      "unitSymbol": "kN*m"
+    },
+    "dyne_meter": {
+      "unitName": "Dyne Meter",
+      "unitSymbol": "dyn*m"
+    },
+    "dyne_centimeter": {
+      "unitName": "Dyne Centimeter",
+      "unitSymbol": "dyn*cm"
+    },
+    "dyne_millimeter": {
+      "unitName": "Dyne Millimeter",
+      "unitSymbol": "dyn*mm"
+    },
+    "kilogram-force_meter": {
+      "unitName": "Kilogram-Force Meter",
+      "unitSymbol": "kgf*m"
+    },
+    "kilogram-force_centimeter": {
+      "unitName": "Kilogram-Force Centimeter",
+      "unitSymbol": "kgf*cm"
+    },
+    "kilogram-force_millimeter": {
+      "unitName": "Kilogram-Force Millimeter",
+      "unitSymbol": "kgf*mm"
+    },
+    "gram-force_meter": {
+      "unitName": "Gram-Force Meter",
+      "unitSymbol": "gf*m"
+    },
+    "gram-force_centimeter": {
+      "unitName": "Gram-Force Centimeter",
+      "unitSymbol": "gf*cm"
+    },
+    "gram-force_millimeter": {
+      "unitName": "Gram-Force Millimeter",
+      "unitSymbol": "gf*mm"
+    },
+    "ounce-force_foot": {
+      "unitName": "Ounce-Force Foot",
+      "unitSymbol": "ozf*ft"
+    },
+    "ounce-force_inch": {
+      "unitName": "Ounce-Force Inch",
+      "unitSymbol": "ozf*in"
+    },
+    "pound-force_foot": {
+      "unitName": "Pound-Force Foot",
+      "unitSymbol": "lbf*ft"
+    },
+    "pound-force_inch": {
+      "unitName": "Pound-Force Inch",
+      "unitSymbol": "lbf*in"
+    }
+  },
+  "temperature": {
+    "kelvin": {
+      "unitName": "Kelvin",
+      "unitSymbol": "K"
+    },
+    "celsius": {
+      "unitName": "Celsius",
+      "unitSymbol": "°C"
+    },
+    "fahrenheit": {
+      "unitName": "Fahrenheit",
+      "unitSymbol": "°F"
+    },
+    "rankine": {
+      "unitName": "Rankine",
+      "unitSymbol": "°R"
+    },
+    "reaumur": {
+      "unitName": "Reaumur",
+      "unitSymbol": "°r"
+    },
+    "triple_point_of_water": {
+      "unitName": "Triple Point of Water",
+      "unitSymbol": "Unknown"
+    }
+  },
+  "pressure": {
+    "pascal": {
+      "unitName": "Pascal",
+      "unitSymbol": "Pa"
+    },
+    "kilopascal": {
+      "unitName": "Kilopascal",
+      "unitSymbol": "kPa"
+    },
+    "bar": {
+      "unitName": "Bar",
+      "unitSymbol": "bar"
+    },
+    "psi": {
+      "unitName": "Pounds per Square Inch",
+      "unitSymbol": "psi"
+    },
+    "ksi": {
+      "unitName": "Kips per Square Inch",
+      "unitSymbol": "ksi"
+    },
+    "standard_atmosphere": {
+      "unitName": "Standard Atmosphere",
+      "unitSymbol": "atm"
+    },
+    "exapascal": {
+      "unitName": "Exapascal",
+      "unitSymbol": "EPa"
+    },
+    "petapascal": {
+      "unitName": "Petapascal",
+      "unitSymbol": "PPa"
+    },
+    "terapascal": {
+      "unitName": "Terapascal",
+      "unitSymbol": "TPa"
+    },
+    "gigapascal": {
+      "unitName": "Gigapascal",
+      "unitSymbol": "GPa"
+    },
+    "megapascal": {
+      "unitName": "Megapascal",
+      "unitSymbol": "MPa"
+    },
+    "hectopascal": {
+      "unitName": "Hectopascal",
+      "unitSymbol": "hPa"
+    },
+    "dekapascal": {
+      "unitName": "Dekapascal",
+      "unitSymbol": "daPa"
+    },
+    "decipascal": {
+      "unitName": "Decipascal",
+      "unitSymbol": "dPa"
+    },
+    "centipascal": {
+      "unitName": "Centipascal",
+      "unitSymbol": "cPa"
+    },
+    "millipascal": {
+      "unitName": "Millipascal",
+      "unitSymbol": "mPa"
+    },
+    "micropascal": {
+      "unitName": "Micropascal",
+      "unitSymbol": "µPa"
+    },
+    "nanopascal": {
+      "unitName": "Nanopascal",
+      "unitSymbol": "nPa"
+    },
+    "picopascal": {
+      "unitName": "Picopascal",
+      "unitSymbol": "pPa"
+    },
+    "femtopascal": {
+      "unitName": "Femtopascal",
+      "unitSymbol": "fPa"
+    },
+    "attopascal": {
+      "unitName": "Attopascal",
+      "unitSymbol": "aPa"
+    },
+    "newton_per_square_meter": {
+      "unitName": "Newton per Square Meter",
+      "unitSymbol": "N/m²"
+    },
+    "newton_per_square_centimeter": {
+      "unitName": "Newton per Square Centimeter",
+      "unitSymbol": "N/cm²"
+    },
+    "newton_per_square_millimeter": {
+      "unitName": "Newton per Square Millimeter",
+      "unitSymbol": "N/mm²"
+    },
+    "kilonewton_per_square_meter": {
+      "unitName": "Kilonewton per Square Meter",
+      "unitSymbol": "kN/m²"
+    },
+    "millibar": {
+      "unitName": "Millibar",
+      "unitSymbol": "mbar"
+    },
+    "microbar": {
+      "unitName": "Microbar",
+      "unitSymbol": "µbar"
+    },
+    "dyne_per_square_centimeter": {
+      "unitName": "Dyne per Square Centimeter",
+      "unitSymbol": "dyn/cm²"
+    },
+    "kilogram_force_per_square_meter": {
+      "unitName": "Kilogram-force per Square Meter",
+      "unitSymbol": "kgf/m²"
+    },
+    "kilogram_force_per_square_centimeter": {
+      "unitName": "Kilogram-force per Square Centimeter",
+      "unitSymbol": "kgf/cm²"
+    },
+    "kilogram_force_per_square_millimeter": {
+      "unitName": "Kilogram-force per Square Millimeter",
+      "unitSymbol": "kgf/mm²"
+    },
+    "gram_force_per_square_centimeter": {
+      "unitName": "Gram-force per Square Centimeter",
+      "unitSymbol": "gf/cm²"
+    },
+    "ton_force_short_per_square_foot": {
+      "unitName": "Ton-force (short) per Square Foot",
+      "unitSymbol": "tonf/ft²"
+    },
+    "ton_force_short_per_square_inch": {
+      "unitName": "Ton-force (short) per Square Inch",
+      "unitSymbol": "tonf/in²"
+    },
+    "ton_force_long_per_square_foot": {
+      "unitName": "Ton-force (long) per Square Foot",
+      "unitSymbol": "tonf/ft²"
+    },
+    "ton_force_long_per_square_inch": {
+      "unitName": "Ton-force (long) per Square Inch",
+      "unitSymbol": "tonf/in²"
+    },
+    "kip_force_per_square_inch": {
+      "unitName": "Kip-force per Square Inch",
+      "unitSymbol": "kipf/in²"
+    },
+    "pound_force_per_square_foot": {
+      "unitName": "Pound-force per Square Foot",
+      "unitSymbol": "lbf/ft²"
+    },
+    "pound_force_per_square_inch": {
+      "unitName": "Pound-force per Square Inch",
+      "unitSymbol": "lbf/in²"
+    },
+    "poundal_per_square_foot": {
+      "unitName": "Poundal per Square Foot",
+      "unitSymbol": "pdl/ft²"
+    },
+    "torr": {
+      "unitName": "Torr",
+      "unitSymbol": "Torr"
+    },
+    "centimeter_mercury_0°C": {
+      "unitName": "Centimeter Mercury (0°C)",
+      "unitSymbol": "cmHg(0°C)"
+    },
+    "millimeter_mercury_0°C": {
+      "unitName": "Millimeter Mercury (0°C)",
+      "unitSymbol": "mmHg(0°C)"
+    },
+    "inch_mercury_32°F": {
+      "unitName": "Inch Mercury (32°F)",
+      "unitSymbol": "inHg(32°F)"
+    },
+    "inch_mercury_60°F": {
+      "unitName": "Inch Mercury (60°F)",
+      "unitSymbol": "inHg(60°F)"
+    },
+    "centimeter_water_4°C": {
+      "unitName": "Centimeter Water (4°C)",
+      "unitSymbol": "cmAq(4°C)"
+    },
+    "millimeter_water_4°C": {
+      "unitName": "Millimeter Water (4°C)",
+      "unitSymbol": "mmAq(4°C)"
+    },
+    "inch_water_4°C": {
+      "unitName": "Inch Water (4°C)",
+      "unitSymbol": "inAq(4°C)"
+    },
+    "foot_water_4°C": {
+      "unitName": "Foot Water (4°C)",
+      "unitSymbol": "ftAq(4°C)"
+    },
+    "inch_water_60°F": {
+      "unitName": "Inch Water (60°F)",
+      "unitSymbol": "inAq(60°F)"
+    },
+    "foot_water_60°F": {
+      "unitName": "Foot Water (60°F)",
+      "unitSymbol": "ftAq(60°F)"
+    },
+    "technical_atmosphere": {
+      "unitName": "Technical Atmosphere",
+      "unitSymbol": "at"
+    }
+  },
+  "power": {
+    "watt": {
+      "unitName": "Watt",
+      "unitSymbol": "W"
+    },
+    "exawatt": {
+      "unitName": "Exawatt",
+      "unitSymbol": "EW"
+    },
+    "petawatt": {
+      "unitName": "Petawatt",
+      "unitSymbol": "PW"
+    },
+    "terawatt": {
+      "unitName": "Terawatt",
+      "unitSymbol": "TW"
+    },
+    "gigawatt": {
+      "unitName": "Gigawatt",
+      "unitSymbol": "GW"
+    },
+    "megawatt": {
+      "unitName": "Megawatt",
+      "unitSymbol": "MW"
+    },
+    "kilowatt": {
+      "unitName": "Kilowatt",
+      "unitSymbol": "kW"
+    },
+    "hectowatt": {
+      "unitName": "Hectowatt",
+      "unitSymbol": "hW"
+    },
+    "dekawatt": {
+      "unitName": "Dekawatt",
+      "unitSymbol": "daW"
+    },
+    "deciwatt": {
+      "unitName": "Deciwatt",
+      "unitSymbol": "dW"
+    },
+    "centiwatt": {
+      "unitName": "Centiwatt",
+      "unitSymbol": "cW"
+    },
+    "milliwatt": {
+      "unitName": "Milliwatt",
+      "unitSymbol": "mW"
+    },
+    "microwatt": {
+      "unitName": "Microwatt",
+      "unitSymbol": "µW"
+    },
+    "nanowatt": {
+      "unitName": "Nanowatt",
+      "unitSymbol": "nW"
+    },
+    "picowatt": {
+      "unitName": "Picowatt",
+      "unitSymbol": "pW"
+    },
+    "femtowatt": {
+      "unitName": "Femtowatt",
+      "unitSymbol": "fW"
+    },
+    "attowatt": {
+      "unitName": "Attowatt",
+      "unitSymbol": "aW"
+    },
+    "horsepower": {
+      "unitName": "Horsepower",
+      "unitSymbol": "hp"
+    },
+    "horsepower_550_ft_lbf_per_s": {
+      "unitName": "Horsepower (550 ft*lbf/s)",
+      "unitSymbol": "hp (UK)"
+    },
+    "horsepower_metric": {
+      "unitName": "Horsepower (Metric)",
+      "unitSymbol": "hp (Metric)"
+    },
+    "horsepower_boiler": {
+      "unitName": "Horsepower (Boiler)",
+      "unitSymbol": "hp (Boiler)"
+    },
+    "horsepower_electric": {
+      "unitName": "Horsepower (Electric)",
+      "unitSymbol": "hp (Electric)"
+    },
+    "horsepower_water": {
+      "unitName": "Horsepower (Water)",
+      "unitSymbol": "hp (Water)"
+    },
+    "pferdestarke": {
+      "unitName": "Pferdestarke",
+      "unitSymbol": "ps"
+    },
+    "Btu_IT_per_hour": {
+      "unitName": "Btu (IT)/hour",
+      "unitSymbol": "Btu/h"
+    },
+    "Btu_IT_per_minute": {
+      "unitName": "Btu (IT)/minute",
+      "unitSymbol": "Btu/min"
+    },
+    "Btu_IT_per_second": {
+      "unitName": "Btu (IT)/second",
+      "unitSymbol": "Btu/s"
+    },
+    "Btu_th_per_hour": {
+      "unitName": "Btu (th)/hour",
+      "unitSymbol": "Btu (th)/h"
+    },
+    "Btu_th_per_minute": {
+      "unitName": "Btu (th)/minute",
+      "unitSymbol": "Btu (th)/min"
+    },
+    "Btu_th_per_second": {
+      "unitName": "Btu (th)/second",
+      "unitSymbol": "Btu (th)/s"
+    },
+    "MBtu_IT_per_hour": {
+      "unitName": "MBtu (IT)/hour",
+      "unitSymbol": "MBtu/h"
+    },
+    "MBH": {
+      "unitName": "MBH",
+      "unitSymbol": "MBH"
+    },
+    "ton_refrigeration": {
+      "unitName": "Ton (Refrigeration)",
+      "unitSymbol": "ton"
+    },
+    "kilocalorie_IT_per_hour": {
+      "unitName": "Kilocalorie (IT)/hour",
+      "unitSymbol": "kcal/h"
+    },
+    "kilocalorie_IT_per_minute": {
+      "unitName": "Kilocalorie (IT)/minute",
+      "unitSymbol": "kcal/min"
+    },
+    "kilocalorie_IT_per_second": {
+      "unitName": "Kilocalorie (IT)/second",
+      "unitSymbol": "kcal/s"
+    },
+    "kilocalorie_th_per_hour": {
+      "unitName": "Kilocalorie (th)/hour",
+      "unitSymbol": "kcal (th)/h"
+    },
+    "kilocalorie_th_per_minute": {
+      "unitName": "Kilocalorie (th)/minute",
+      "unitSymbol": "kcal (th)/min"
+    },
+    "kilocalorie_th_per_second": {
+      "unitName": "Kilocalorie (th)/second",
+      "unitSymbol": "kcal (th)/s"
+    },
+    "calorie_IT_per_hour": {
+      "unitName": "Calorie (IT)/hour",
+      "unitSymbol": "cal/h"
+    },
+    "calorie_IT_per_minute": {
+      "unitName": "Calorie (IT)/minute",
+      "unitSymbol": "cal/min"
+    },
+    "calorie_IT_per_second": {
+      "unitName": "Calorie (IT)/second",
+      "unitSymbol": "cal/s"
+    },
+    "calorie_th_per_hour": {
+      "unitName": "Calorie (th)/hour",
+      "unitSymbol": "cal (th)/h"
+    },
+    "calorie_th_per_minute": {
+      "unitName": "Calorie (th)/minute",
+      "unitSymbol": "cal (th)/min"
+    },
+    "calorie_th_per_second": {
+      "unitName": "Calorie (th)/second",
+      "unitSymbol": "cal (th)/s"
+    },
+    "foot_pound_force_per_hour": {
+      "unitName": "Foot Pound-force/hour",
+      "unitSymbol": "ft*lbf/h"
+    },
+    "foot_pound_force_per_minute": {
+      "unitName": "Foot Pound-force/minute",
+      "unitSymbol": "ft*lbf/min"
+    },
+    "foot_pound_force_per_second": {
+      "unitName": "Foot Pound-force/second",
+      "unitSymbol": "ft*lbf/s"
+    },
+    "pound_foot_per_hour": {
+      "unitName": "Pound-foot/hour",
+      "unitSymbol": "lbf*ft/h"
+    },
+    "pound_foot_per_minute": {
+      "unitName": "Pound-foot/minute",
+      "unitSymbol": "lbf*ft/min"
+    },
+    "pound_foot_per_second": {
+      "unitName": "Pound-foot/second",
+      "unitSymbol": "lbf*ft/s"
+    },
+    "erg_per_second": {
+      "unitName": "Erg/second",
+      "unitSymbol": "erg/s"
+    },
+    "kilovolt_ampere": {
+      "unitName": "Kilovolt Ampere",
+      "unitSymbol": "kV*A"
+    },
+    "volt_ampere": {
+      "unitName": "Volt Ampere",
+      "unitSymbol": "V*A"
+    },
+    "newton_meter_per_second": {
+      "unitName": "Newton Meter/second",
+      "unitSymbol": "N*m/s"
+    },
+    "joule_per_second": {
+      "unitName": "Joule/second",
+      "unitSymbol": "J/s"
+    },
+    "exajoule_per_second": {
+      "unitName": "Exajoule/second",
+      "unitSymbol": "EJ/s"
+    },
+    "petajoule_per_second": {
+      "unitName": "Petajoule/second",
+      "unitSymbol": "PJ/s"
+    },
+    "terajoule_per_second": {
+      "unitName": "Terajoule/second",
+      "unitSymbol": "TJ/s"
+    },
+    "gigajoule_per_second": {
+      "unitName": "Gigajoule/second",
+      "unitSymbol": "GJ/s"
+    },
+    "megajoule_per_second": {
+      "unitName": "Megajoule/second",
+      "unitSymbol": "MJ/s"
+    },
+    "kilojoule_per_second": {
+      "unitName": "Kilojoule/second",
+      "unitSymbol": "kJ/s"
+    },
+    "hectojoule_per_second": {
+      "unitName": "Hectojoule/second",
+      "unitSymbol": "hJ/s"
+    },
+    "dekajoule_per_second": {
+      "unitName": "Dekajoule/second",
+      "unitSymbol": "daJ/s"
+    },
+    "decijoule_per_second": {
+      "unitName": "Decijoule/second",
+      "unitSymbol": "dJ/s"
+    },
+    "centijoule_per_second": {
+      "unitName": "Centijoule/second",
+      "unitSymbol": "cJ/s"
+    },
+    "millijoule_per_second": {
+      "unitName": "Millijoule/second",
+      "unitSymbol": "mJ/s"
+    },
+    "microjoule_per_second": {
+      "unitName": "Microjoule/second",
+      "unitSymbol": "µJ/s"
+    },
+    "nanojoule_per_second": {
+      "unitName": "Nanojoule/second",
+      "unitSymbol": "nJ/s"
+    },
+    "picojoule_per_second": {
+      "unitName": "Picojoule/second",
+      "unitSymbol": "pJ/s"
+    },
+    "femtojoule_per_second": {
+      "unitName": "Femtojoule/second",
+      "unitSymbol": "fJ/s"
+    },
+    "attojoule_per_second": {
+      "unitName": "Attojoule/second",
+      "unitSymbol": "aJ/s"
+    },
+    "joule_per_hour": {
+      "unitName": "Joule/hour",
+      "unitSymbol": "J/h"
+    },
+    "joule_per_minute": {
+      "unitName": "Joule/minute",
+      "unitSymbol": "J/min"
+    },
+    "kilojoule_per_hour": {
+      "unitName": "Kilojoule/hour",
+      "unitSymbol": "kJ/h"
+    },
+    "kilojoule_per_minute": {
+      "unitName": "Kilojoule/minute",
+      "unitSymbol": "kJ/min"
+    }
+  },
+  "time": {
+    "second": {
+      "unitName": "Second",
+      "unitSymbol": "s"
+    },
+    "millisecond": {
+      "unitName": "Millisecond",
+      "unitSymbol": "ms"
+    },
+    "minute": {
+      "unitName": "Minute",
+      "unitSymbol": "min"
+    },
+    "hour": {
+      "unitName": "Hour",
+      "unitSymbol": "h"
+    },
+    "day": {
+      "unitName": "Day",
+      "unitSymbol": "d"
+    },
+    "week": {
+      "unitName": "Week",
+      "unitSymbol": "week"
+    },
+    "month": {
+      "unitName": "Month",
+      "unitSymbol": "month"
+    },
+    "year": {
+      "unitName": "Year",
+      "unitSymbol": "y"
+    },
+    "decade": {
+      "unitName": "Decade",
+      "unitSymbol": "decade"
+    },
+    "century": {
+      "unitName": "Century",
+      "unitSymbol": "century"
+    },
+    "millennium": {
+      "unitName": "Millennium",
+      "unitSymbol": "millennium"
+    },
+    "microsecond": {
+      "unitName": "Microsecond",
+      "unitSymbol": "µs"
+    },
+    "nanosecond": {
+      "unitName": "Nanosecond",
+      "unitSymbol": "ns"
+    },
+    "picosecond": {
+      "unitName": "Picosecond",
+      "unitSymbol": "ps"
+    },
+    "femtosecond": {
+      "unitName": "Femtosecond",
+      "unitSymbol": "fs"
+    },
+    "attosecond": {
+      "unitName": "Attosecond",
+      "unitSymbol": "as"
+    },
+    "shake": {
+      "unitName": "Shake",
+      "unitSymbol": "shake"
+    },
+    "synodic_month": {
+      "unitName": "Synodic Month",
+      "unitSymbol": "month (synodic)"
+    },
+    "julian_year": {
+      "unitName": "Julian Year",
+      "unitSymbol": "year (Julian)"
+    },
+    "leap_year": {
+      "unitName": "Leap Year",
+      "unitSymbol": "year (leap)"
+    },
+    "tropical_year": {
+      "unitName": "Tropical Year",
+      "unitSymbol": "year (tropical)"
+    },
+    "sidereal_year": {
+      "unitName": "Sidereal Year",
+      "unitSymbol": "year (sidereal)"
+    },
+    "sidereal_day": {
+      "unitName": "Sidereal Day",
+      "unitSymbol": "day (sidereal)"
+    },
+    "sidereal_hour": {
+      "unitName": "Sidereal Hour",
+      "unitSymbol": "hour (sidereal)"
+    },
+    "sidereal_minute": {
+      "unitName": "Sidereal Minute",
+      "unitSymbol": "minute (sidereal)"
+    },
+    "sidereal_second": {
+      "unitName": "Sidereal Second",
+      "unitSymbol": "second (sidereal)"
+    },
+    "fortnight": {
+      "unitName": "Fortnight",
+      "unitSymbol": "fortnight"
+    },
+    "septennial": {
+      "unitName": "Septennial",
+      "unitSymbol": "septennial"
+    },
+    "octennial": {
+      "unitName": "Octennial",
+      "unitSymbol": "octennial"
+    },
+    "novennial": {
+      "unitName": "Novennial",
+      "unitSymbol": "novennial"
+    },
+    "quindecennial": {
+      "unitName": "Quindecennial",
+      "unitSymbol": "quindecennial"
+    },
+    "quinquennial": {
+      "unitName": "Quinquennial",
+      "unitSymbol": "quinquennial"
+    },
+    "planck_time": {
+      "unitName": "Planck Time",
+      "unitSymbol": "Planck time"
+    }
+  },
+  "angle": {
+    "degree": {
+      "unitName": "Degree",
+      "unitSymbol": "°"
+    },
+    "radian": {
+      "unitName": "Radian",
+      "unitSymbol": "rad"
+    },
+    "grad": {
+      "unitName": "Gradian",
+      "unitSymbol": "^g"
+    },
+    "minute": {
+      "unitName": "Minute",
+      "unitSymbol": "'"
+    },
+    "second": {
+      "unitName": "Second",
+      "unitSymbol": "\""
+    },
+    "gon": {
+      "unitName": "Gon",
+      "unitSymbol": "gon"
+    },
+    "sign": {
+      "unitName": "Sign",
+      "unitSymbol": "sign"
+    },
+    "mil": {
+      "unitName": "Mil",
+      "unitSymbol": "mil"
+    },
+    "revolution": {
+      "unitName": "Revolution",
+      "unitSymbol": "r"
+    },
+    "circle": {
+      "unitName": "Circle",
+      "unitSymbol": "circle"
+    },
+    "turn": {
+      "unitName": "Turn",
+      "unitSymbol": "turn"
+    },
+    "quadrant": {
+      "unitName": "Quadrant",
+      "unitSymbol": "quadrant"
+    },
+    "right_angle": {
+      "unitName": "Right Angle",
+      "unitSymbol": "right angle"
+    },
+    "sextant": {
+      "unitName": "Sextant",
+      "unitSymbol": "sextant"
+    }
+  },
+  "numbers": {
+    "binary": {
+      "unitName": "Binary",
+      "unitSymbol": "2"
+    },
+    "octal": {
+      "unitName": "Octal",
+      "unitSymbol": "8"
+    },
+    "decimal": {
+      "unitName": "Decimal",
+      "unitSymbol": "10"
+    },
+    "hexadecimal": {
+      "unitName": "Hexadecimal",
+      "unitSymbol": "16"
+    },
+    "base-2": {
+      "unitName": "Base-2",
+      "unitSymbol": "2"
+    },
+    "base-3": {
+      "unitName": "Base-3",
+      "unitSymbol": "3"
+    },
+    "base-4": {
+      "unitName": "Base-4",
+      "unitSymbol": "4"
+    },
+    "base-5": {
+      "unitName": "Base-5",
+      "unitSymbol": "5"
+    },
+    "base-6": {
+      "unitName": "Base-6",
+      "unitSymbol": "6"
+    },
+    "base-7": {
+      "unitName": "Base-7",
+      "unitSymbol": "7"
+    },
+    "base-8": {
+      "unitName": "Base-8",
+      "unitSymbol": "8"
+    },
+    "base-9": {
+      "unitName": "Base-9",
+      "unitSymbol": "9"
+    },
+    "base-10": {
+      "unitName": "Base-10",
+      "unitSymbol": "10"
+    },
+    "base-11": {
+      "unitName": "Base-11",
+      "unitSymbol": "11"
+    },
+    "base-12": {
+      "unitName": "Base-12",
+      "unitSymbol": "12"
+    },
+    "base-13": {
+      "unitName": "Base-13",
+      "unitSymbol": "13"
+    },
+    "base-14": {
+      "unitName": "Base-14",
+      "unitSymbol": "14"
+    },
+    "base-15": {
+      "unitName": "Base-15",
+      "unitSymbol": "15"
+    },
+    "base-16": {
+      "unitName": "Base-16",
+      "unitSymbol": "16"
+    },
+    "base-17": {
+      "unitName": "Base-17",
+      "unitSymbol": "17"
+    },
+    "base-18": {
+      "unitName": "Base-18",
+      "unitSymbol": "18"
+    },
+    "base-19": {
+      "unitName": "Base-19",
+      "unitSymbol": "19"
+    },
+    "base-20": {
+      "unitName": "Base-20",
+      "unitSymbol": "20"
+    },
+    "base-21": {
+      "unitName": "Base-21",
+      "unitSymbol": "21"
+    },
+    "base-22": {
+      "unitName": "Base-22",
+      "unitSymbol": "22"
+    },
+    "base-23": {
+      "unitName": "Base-23",
+      "unitSymbol": "23"
+    },
+    "base-24": {
+      "unitName": "Base-24",
+      "unitSymbol": "24"
+    },
+    "base-25": {
+      "unitName": "Base-25",
+      "unitSymbol": "25"
+    },
+    "base-26": {
+      "unitName": "Base-26",
+      "unitSymbol": "26"
+    },
+    "base-27": {
+      "unitName": "Base-27",
+      "unitSymbol": "27"
+    },
+    "base-28": {
+      "unitName": "Base-28",
+      "unitSymbol": "28"
+    },
+    "base-29": {
+      "unitName": "Base-29",
+      "unitSymbol": "29"
+    },
+    "base-30": {
+      "unitName": "Base-30",
+      "unitSymbol": "30"
+    },
+    "base-31": {
+      "unitName": "Base-31",
+      "unitSymbol": "31"
+    },
+    "base-32": {
+      "unitName": "Base-32",
+      "unitSymbol": "32"
+    },
+    "base-33": {
+      "unitName": "Base-33",
+      "unitSymbol": "33"
+    },
+    "base-34": {
+      "unitName": "Base-34",
+      "unitSymbol": "34"
+    },
+    "base-35": {
+      "unitName": "Base-35",
+      "unitSymbol": "35"
+    },
+    "base-36": {
+      "unitName": "Base-36",
+      "unitSymbol": "36"
+    }
+  },
+  "volume dry": {
+    "liter": {
+      "unitName": "Liter",
+      "unitSymbol": "L"
+    },
+    "barrel_dry_US": {
+      "unitName": "Barrel Dry (US)",
+      "unitSymbol": "bbl dry (US)"
+    },
+    "pint_dry_US": {
+      "unitName": "Pint Dry (US)",
+      "unitSymbol": "pt dry (US)"
+    },
+    "quart_dry_US": {
+      "unitName": "Quart Dry (US)",
+      "unitSymbol": "qt dry (US)"
+    },
+    "peck_US": {
+      "unitName": "Peck (US)",
+      "unitSymbol": "pk (US)"
+    },
+    "peck_UK": {
+      "unitName": "Peck (UK)",
+      "unitSymbol": "pk (UK)"
+    },
+    "bushel_US": {
+      "unitName": "Bushel (US)",
+      "unitSymbol": "bu (US)"
+    },
+    "bushel_UK": {
+      "unitName": "Bushel (UK)",
+      "unitSymbol": "bu (UK)"
+    },
+    "cor_Biblical": {
+      "unitName": "Cor (Biblical)",
+      "unitSymbol": "Cor"
+    },
+    "homer_Biblical": {
+      "unitName": "Homer (Biblical)",
+      "unitSymbol": "Homer"
+    },
+    "ephah_Biblical": {
+      "unitName": "Ephah (Biblical)",
+      "unitSymbol": "Ephah"
+    },
+    "seah_Biblical": {
+      "unitName": "Seah (Biblical)",
+      "unitSymbol": "Seah"
+    },
+    "omer_Biblical": {
+      "unitName": "Omer (Biblical)",
+      "unitSymbol": "Omer"
+    },
+    "cab_Biblical": {
+      "unitName": "Cab (Biblical)",
+      "unitSymbol": "Cab"
+    },
+    "log_Biblical": {
+      "unitName": "Log (Biblical)",
+      "unitSymbol": "Log"
+    }
+  },
+  "angular velocity": {
+    "radian_per_second": {
+      "unitName": "Radian per Second",
+      "unitSymbol": "rad/s"
+    },
+    "radian_per_day": {
+      "unitName": "Radian per Day",
+      "unitSymbol": "rad/d"
+    },
+    "radian_per_hour": {
+      "unitName": "Radian per Hour",
+      "unitSymbol": "rad/h"
+    },
+    "radian_per_minute": {
+      "unitName": "Radian per Minute",
+      "unitSymbol": "rad/min"
+    },
+    "degree_per_day": {
+      "unitName": "Degree per Day",
+      "unitSymbol": "°/d"
+    },
+    "degree_per_hour": {
+      "unitName": "Degree per Hour",
+      "unitSymbol": "°/h"
+    },
+    "degree_per_minute": {
+      "unitName": "Degree per Minute",
+      "unitSymbol": "°/min"
+    },
+    "degree_per_second": {
+      "unitName": "Degree per Second",
+      "unitSymbol": "°/s"
+    },
+    "revolution_per_day": {
+      "unitName": "Revolution per Day",
+      "unitSymbol": "r/d"
+    },
+    "revolution_per_hour": {
+      "unitName": "Revolution per Hour",
+      "unitSymbol": "r/h"
+    },
+    "revolution_per_minute": {
+      "unitName": "Revolution per Minute",
+      "unitSymbol": "r/min"
+    },
+    "revolution_per_second": {
+      "unitName": "Revolution per Second",
+      "unitSymbol": "r/s"
+    }
+  },
+  "angular acceleration": {
+    "radian_per_square_second": {
+      "unitName": "Radian per Square Second",
+      "unitSymbol": "rad/s²"
+    },
+    "radian_per_square_minute": {
+      "unitName": "Radian per Square Minute",
+      "unitSymbol": "rad/min²"
+    },
+    "revolution_per_square_second": {
+      "unitName": "Revolution per Square Second",
+      "unitSymbol": "r/s²"
+    },
+    "revolution_per_minute_second": {
+      "unitName": "Revolution per Minute per Second",
+      "unitSymbol": "r/min/s"
+    },
+    "revolution_per_square_minute": {
+      "unitName": "Revolution per Square Minute",
+      "unitSymbol": "r/min²"
+    }
+  },
+  "specific volume": {
+    "cubic_meter_per_kilogram": {
+      "unitName": "Cubic Meter per Kilogram",
+      "unitSymbol": "m³/kg"
+    },
+    "cubic_centimeter_per_gram": {
+      "unitName": "Cubic Centimeter per Gram",
+      "unitSymbol": "cm³/g"
+    },
+    "liter_per_kilogram": {
+      "unitName": "Liter per Kilogram",
+      "unitSymbol": "L/kg"
+    },
+    "liter_per_gram": {
+      "unitName": "Liter per Gram",
+      "unitSymbol": "L/g"
+    },
+    "cubic_foot_per_kilogram": {
+      "unitName": "Cubic Foot per Kilogram",
+      "unitSymbol": "ft³/kg"
+    },
+    "cubic_foot_per_pound": {
+      "unitName": "Cubic Foot per Pound",
+      "unitSymbol": "ft³/lb"
+    },
+    "gallon_US_per_pound": {
+      "unitName": "Gallon (US) per Pound",
+      "unitSymbol": "gal/lb"
+    },
+    "gallon_UK_per_pound": {
+      "unitName": "Gallon (UK) per Pound",
+      "unitSymbol": "gal/lb"
+    }
+  },
+  "moment of force": {
+    "newton_meter": {
+      "unitName": "Newton Meter",
+      "unitSymbol": "N*m"
+    },
+    "kilonewton_meter": {
+      "unitName": "Kilonewton Meter",
+      "unitSymbol": "kN*m"
+    },
+    "millinewton_meter": {
+      "unitName": "Millinewton Meter",
+      "unitSymbol": "mN*m"
+    },
+    "micronewton_meter": {
+      "unitName": "Micronewton Meter",
+      "unitSymbol": "µN*m"
+    },
+    "ton_force_short_meter": {
+      "unitName": "Ton-force (short) Meter",
+      "unitSymbol": "tonf*m"
+    },
+    "ton_force_long_meter": {
+      "unitName": "Ton-force (long) Meter",
+      "unitSymbol": "tonf*m"
+    },
+    "ton_force_metric_meter": {
+      "unitName": "Ton-force (metric) Meter",
+      "unitSymbol": "tonf*m"
+    },
+    "kilogram_force_meter": {
+      "unitName": "Kilogram-force Meter",
+      "unitSymbol": "kgf*m"
+    },
+    "gram_force_centimeter": {
+      "unitName": "Gram-force Centimeter",
+      "unitSymbol": "gf*cm"
+    },
+    "pound_force_foot": {
+      "unitName": "Pound-force Foot",
+      "unitSymbol": "lbf*ft"
+    },
+    "poundal_foot": {
+      "unitName": "Poundal Foot",
+      "unitSymbol": "pdl*ft"
+    },
+    "poundal_inch": {
+      "unitName": "Poundal Inch",
+      "unitSymbol": "pdl*in"
+    }
+  }
+}
