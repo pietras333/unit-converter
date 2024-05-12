@@ -25,7 +25,7 @@ const Facts = () => {
               </span>
               <span className="font-extrabold text-[#F04E23]">FACTS.</span>
             </h2>
-            <p class="text-lg text-[#24285b]">3 facts about this site.</p>
+            <p className="text-lg text-[#24285b]">3 facts about this site.</p>
           </section>
           <section className="w-full h-2/4 max-lg:h-full flex justify-center items-center pt-10">
             <ul className="w-4/5 max-xl:w-5/6 max-lg:w-[95%] max-lg:flex-col max-lg:h-full items-center h-full flex justify-around">
@@ -48,7 +48,7 @@ const Facts = () => {
                       src={science}
                       alt="science vector"
                       className="w-3/4 max-xl:w-1/2"
-                    ></Image>
+                    />
                   </section>
                 </section>
               </li>
@@ -70,7 +70,7 @@ const Facts = () => {
                       src={coding2}
                       alt="coding vector"
                       className="w-3/4 max-xl:w-1/2"
-                    ></Image>
+                    />
                   </section>
                 </section>
               </li>
@@ -92,7 +92,7 @@ const Facts = () => {
                       src={startUp}
                       alt="start up vector"
                       className="w-3/4 max-xl:w-1/2"
-                    ></Image>
+                    />
                   </section>
                 </section>
               </li>
