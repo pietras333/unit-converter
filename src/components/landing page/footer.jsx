@@ -1,14 +1,9 @@
-import { Comfortaa } from "next/font/google";
 import Image from "next/image";
-const comfortaa = Comfortaa({ subsets: ["latin"] });
-
 import githubIcon from "../../../public/assets/landing/icons8-github.svg";
 
 const Footer = () => {
   return (
-    <footer
-      className={`max-w-full h-[25vh] ${comfortaa.className} flex justify-center items-center bg-landing-footer bg-center bg-full bg-no-repeat`}
-    >
+    <footer className="max-w-full h-[25vh] flex justify-center items-center bg-landing-footer bg-center bg-full bg-no-repeat">
       <section className="w-2/3 h-full flex">
         <section className="w-1/2 h-full flex justify-center items-center">
           <ul className="w-3/4 max-lg:w-4/5 max-lg:text-sm max-md:w-full h-3/4 flex flex-col justify-around">
