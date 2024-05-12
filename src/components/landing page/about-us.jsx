@@ -44,9 +44,11 @@ const AboutUs = () => {
               <span class="text-[#F04E23]">impact</span>.
             </p>
 
-            <button className="bg-[#F04E23] max-lg:bg-[#00AEE0] w-1/4 max-xl:w-2/5 max-lg:w-1/2 p-4 text-xl rounded-xl text-[#F0EFF4]">
-              Let&apos;s Talk
-            </button>
+            <a href="#contact" className="w-1/4 max-xl:w-2/5 max-lg:w-1/2">
+              <button className="bg-[#F04E23] max-lg:bg-[#00AEE0] w-full p-4 text-xl rounded-xl text-[#F0EFF4]">
+                Let&apos;s Talk
+              </button>
+            </a>
           </section>
         </section>
       </section>

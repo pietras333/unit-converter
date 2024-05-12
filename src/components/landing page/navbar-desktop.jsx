@@ -18,9 +18,11 @@ const NavbarDesktop = () => {
             <a href="#contact">Contact.</a>
           </li>
           <li>
-            <button className="bg-[#FFB400] p-4 text-xl rounded-xl max-2xl:p-2.5">
-              Let&apos;s Convert
-            </button>
+            <a href="./converter">
+              <button className="bg-[#FFB400] p-4 text-xl rounded-xl max-2xl:p-2.5">
+                Let&apos;s Convert
+              </button>
+            </a>
           </li>
         </section>
       </ul>

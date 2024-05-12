@@ -32,7 +32,7 @@ const UnitField = (props) => {
   }, [unitValue]);
 
   return (
-    <section className="p-4 space-y-2 w-1/3">
+    <section className="p-4 space-y-2 w-1/3 max-lg:w-1/2 max-md:w-full">
       <h3 className="text-xl font-bold text-[#24285b]">
         {unitName} [{unitSymbol}].
       </h3>
